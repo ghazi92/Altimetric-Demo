@@ -12,7 +12,7 @@ Use Restlet client with following payload in post request:
 2: http://localhost:8080/refresh		
 3: http://localhost:8080/hello-world/{name}
 
-GET requests expects 'Authorization' http Header with value as : 
+These GET requests expects 'Authorization' http Header with value as : 
 Bearer <JWT-Token>
 
 ==========
