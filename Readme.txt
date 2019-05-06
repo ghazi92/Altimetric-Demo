@@ -1,7 +1,7 @@
 REST Services: 
 1: http://localhost:8080/authenticate	
 
-POST request expects username & password as part of post request.
+POST request expects username & password as part of post request payload.
 Use Restlet client with following payload in post request: 
 
 {
